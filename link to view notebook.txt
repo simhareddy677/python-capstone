@@ -1,0 +1,4 @@
+link to view notebook..
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/fde526cf-2d35-4ead-9a61-db5b8a5654f3/view?access_token=13c086336989567bcf467dd4ac37bd6b37230dcc636dbae8ddbb37ebc4802719
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/fde526cf-2d35-4ead-9a61-db5b8a5654f3/view?access_token=13c086336989567bcf467dd4ac37bd6b37230dcc636dbae8ddbb37ebc4802719
